@@ -3,6 +3,9 @@
 <br>
 -👨‍💻-Estudante de <strong>Engenharia de software</strong>.
 <br>
+<br>
+-👨‍💻-Estudante de <strong>Licenciatura em Inglês.</strong>.
+<br>
 -📧-Email: costa.gustavo.email@gmail.com</strong>.
 <div align="center">
   <a href="https://github.com/gustavo23ev">
